@@ -1,0 +1,23 @@
+{
+  "AND":
+  [
+    {"input1": 1,"input2":1,"output":1 },
+    {"input1": 0,"input2":1,"output":0 },
+    {"input1": 1,"input2":0,"output":0 },
+    {"input1": 0,"input2":0,"output":0 }
+  ],
+  "OR":
+  [
+    {"input1":1,"input2":1,"output":1},
+    {"input1":0,"input2":1,"output":1},
+    {"input1":1,"input2":0,"output":1},
+    {"input1":0,"input2":0,"output":0}
+  ],
+  "XOR":
+  [
+    {"input1":1,"input2":1,"output":0},
+    {"input1":1,"input2":0,"output":1},
+    {"input1":0,"input2":1,"output":1},
+    {"input1":0,"input2":0,"output":0}
+  ]
+}

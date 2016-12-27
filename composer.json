@@ -1,0 +1,22 @@
+{
+  "require": {
+    "nlp-tools/nlp-tools": "1.0.*@dev",
+    "illuminate/support": "^5.3",
+    "symfony/var-dumper": "^3.2",
+    "vermotr/php-matrix": "^0.1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "Distance",
+      "Classifiers"
+    ],
+    "psr-4": {
+      "Distance\\": "Distance/",
+      "Matrix\\": "Matrix/",
+      "Vector\\": "Vector/",
+      "Classifiers\\KNN\\": "Classifiers/KNN/",
+      "Classifiers\\ANN\\": "Classifiers/ANN/",
+      "Utilities\\": "Utilities/"
+    }
+  }
+}
