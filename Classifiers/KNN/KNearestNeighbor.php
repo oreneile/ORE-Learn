@@ -3,10 +3,10 @@
 /**
  * K nearest Neighbor
  *
- * @author Kabelo Masemola <kabelo.m@imisglobal.com>
+ * @author Kabelo Masemola <masemolakrp@spaneng.co.za>
  * @copyright Copyright (c) 2016
  * @version 1.0
- * @package MariWeb HMI Framework
+ * @package Ore 
  * @reference https://en.wikipedia.org/wiki/Cosine_similarity
  * @notes <* ? *>
  */

@@ -9,10 +9,10 @@ use Distance\Contracts\SimilarityContract;
 /**
  * Pearson Correlation score
  *
- * @author Kabelo Masemola <kabelo.m@imisglobal.com>
+ * @author Kabelo Masemola <masemolakrp@spaneng.co.za>
  * @copyright Copyright (c) 2016
  * @version 1.0
- * @package MariWeb HMI Framework
+ * @package Ore 
  * @reference https://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
  * @notes <* ? *>
  */
